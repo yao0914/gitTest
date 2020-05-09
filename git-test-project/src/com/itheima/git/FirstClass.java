@@ -12,11 +12,15 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("666");
     }
 
     public void test1() {
         System.out.println("8888");
         System.out.println("8888");
         System.out.println("8888");
+        int i = 1;
+        i++;
+        System.out.println(i);
     }
 }
