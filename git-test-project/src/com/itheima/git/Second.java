@@ -7,5 +7,7 @@ package com.itheima.git;
 public class Second {
     public void test1() {
         System.out.println("hello second");
+        System.out.println("hello second");
+        System.out.println("hello second");
     }
 }
